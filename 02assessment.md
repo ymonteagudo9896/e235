@@ -33,8 +33,8 @@ Each week, students will write a self-evaluation of their work for the week. Thi
 
 Final grades will be determined by the student and the instructor based on the declarations and self-assessments. 
 
-* Students finishing the course with at least 270 points will be eligible to receive a grade of B or better for the course.* Finalizing this grade will be based on taking the self-evaluations of one's learning and the course outcomes into consideration. 
+*Students finishing the course with at least 270 points will be eligible to receive a grade of B or better for the course.* Finalizing this grade will be based on taking the self-evaluations of one's learning and the course outcomes into consideration. 
 
-* Students finfishing the course with at least 210 points will be eligible to receive at least a grade of C.* Again, finalizing this grade will be based on taking the self-evaluations of one's learning and the course outcomes into consideration. 
+*Students finfishing the course with at least 210 points will be eligible to receive at least a grade of C.* Again, finalizing this grade will be based on taking the self-evaluations of one's learning and the course outcomes into consideration. 
 
-* Students finishing the course with fewer than 210 points risk not passing the course and earning below a C (or 2.0).* Again, finalizing this grade will be based on taking the self-evaluations of one's learning and the course outcomes into consideration. 
+*Students finishing the course with fewer than 210 points risk not passing the course and earning below a C (or 2.0).* Again, finalizing this grade will be based on taking the self-evaluations of one's learning and the course outcomes into consideration. 
